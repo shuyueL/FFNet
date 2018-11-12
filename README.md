@@ -40,4 +40,4 @@ We offer a testing example with a pre-trained model in the ./model directory. Do
 python nn_test.py
 ```
 ### Training
-If you want to train the model on your own data, you can find the script for training in nn_train.py.
+If you want to train the model on your own data, you can find the script for training in nn_train.py. For more details, please refer to our paper.
