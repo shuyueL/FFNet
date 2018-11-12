@@ -6,7 +6,7 @@ FFNet in our paper:
 **[FFNet: Video Fast-Forwarding via Reinforcement Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lan_FFNet_Video_Fast-Forwarding_CVPR_2018_paper.pdf)**
 <br>
 
-![alt text](https://github.com/shuyueL/FFNet/tree/master/image/model_2.pdf)
+![alt text](https://github.com/shuyueL/FFNet/tree/master/image/model_2.png "FFNet overview")
 
 If you find the codes or other related resources from this repository useful, please cite the following paper:
 
