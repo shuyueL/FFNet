@@ -35,9 +35,10 @@ The original data we used in paper are available from the following websites
 
 ## Codes
 ### Testing
-We offer a testing example with a pre-trained model in the ./model directory. Download this repository and run the following command to see it:
+We offer a testing example with a pre-trained model in the ./model directory. Download this repository and run the following command:
 ```
 python nn_test.py
 ```
+The fast-forward result will be in the ./output directory.
 ### Training
 If you want to train the model on your own data, you can find the script for training in nn_train.py. For more details, please refer to our paper.
