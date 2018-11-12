@@ -30,7 +30,7 @@ If you find the codes or other related resources from this repository useful, pl
 
 ## Data
 The original data we used in paper are available from the following websites
-* Tour20 dataset https://vcg.ece.ucr.edu/datasets
+* Tour20 dataset: https://vcg.ece.ucr.edu/
 * TVSum dataset: https://github.com/yalesong/tvsum
 
 ## Codes
